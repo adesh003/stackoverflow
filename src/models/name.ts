@@ -1,0 +1,6 @@
+export const db = "main-stackflow"
+export const questionCollection = "question"
+export const answerCollection = "answer"
+export const commentCollection = "comments"
+export const voteCollection = "votes"
+export const questipnAttachmentBucket = "question-attachment"
